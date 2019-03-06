@@ -6,7 +6,8 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-mailchimp-subscribe": "^2.1.0",
-    "react-scripts": "2.1.5"
+    "react-scripts": "2.1.5",
+    "typescript": "^3.3.3333"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -22,5 +23,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "react-dev-utils": "^7.0.3"
+  }
 }
